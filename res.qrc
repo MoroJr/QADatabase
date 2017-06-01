@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="ico">
+    <file>import.ico</file>
+    <file>export.ico</file>
+    <file>table_delete.ico</file>
+    <file>table_modify.ico</file>
+    <file>table_add.ico</file>
+    <file>database_delete.ico</file>
+    <file>database_add.ico</file>
+    <file>select.ico</file>
+    <file>update_table.ico</file>
+    <file>delete_table.ico</file>
+    <file>insert_table.ico</file>
+    <file>Icons8-Ios7-Data-Database.ico</file>
+    <file>database_item_tree.ico</file>
+    <file>no_workspace.ico</file>
+    <file>table_item_tree.ico</file>
+  </qresource>
+</RCC>

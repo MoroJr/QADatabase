@@ -1,0 +1,16 @@
+<row>
+	<column name=bani_multi type=float>
+		1500.0
+	</column>
+	<column name=nume type=str>
+		ionut
+	</column>
+</row>
+<row>
+	<column name=bani_multi type=float>
+		3000.0
+	</column>
+	<column name=nume type=str>
+		dan
+	</column>
+</row>
